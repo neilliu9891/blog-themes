@@ -99,11 +99,11 @@ params:
     author_title: author title
     author_description: talk is cheap, show me code.
     location: Tianjin, China
-    follow: https://github.com/neilliu89
+    follow: https://github.com/neilliu9891
     # Social Links
     social:
       links:
-        github: https://github.com/neilliu89
+        github: https://github.com/neilliu9891
         gitee: https://gitee.com/ly16
         # weibo: http://weibo.com/{yourid}
         # twitter: https://twitter.com/
